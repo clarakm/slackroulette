@@ -64,3 +64,13 @@ body {
     border-radius: 10px;
     padding: 2px;
 }
+.sendMessageButton {
+    background-color: #005eff;
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+.sendMessageButton:hover {
+    color: #005eff;
+    background-color: white;
+}

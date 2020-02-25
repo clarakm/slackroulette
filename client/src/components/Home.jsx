@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div>
             <Layout
-                title="SlackRoulette"
+                title="WhackRoulette"
                 description="Join a room to chat about a topic"
                 className="container-fluid"
             />
